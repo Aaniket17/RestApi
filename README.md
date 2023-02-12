@@ -1,4 +1,4 @@
-# ![Icon](https://raw.githubusercontent.com/clsavino/react-shift-scheduler/master/public/assets/images/logo-small.png) Schedulr
+
 
 
 
